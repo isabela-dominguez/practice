@@ -10,6 +10,7 @@ def find_distinct(arr1, arr2):
         if n in arr1:
             reps.append(n)
             distinct.remove(n)
+            
           
             
     
